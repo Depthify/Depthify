@@ -1,6 +1,6 @@
 ## Greetings, I am Depthify!
 
-I am an experienced Go and Python developer who also does graphic designing.
+I am an experienced Python developer who also does graphic designing.
 - 👨‍💻 Developer, graphic designer & discord volunteer.
 - ☄️ Currently working on Otto bot (private).
 - 🐦 You can find me on twitter [here](https://twitter.com/TheRealDepthify).
