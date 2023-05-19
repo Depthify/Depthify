@@ -1,8 +1,8 @@
 ## Greetings, I am Depthify!
 
-I am an experienced Python developer who also does graphic designing.
-- 👨‍💻 Developer, graphic designer & discord volunteer.
-- ☄️ Currently working on Otto bot (private).
+I am an hobbyist Python developer who also does graphic designing.
+- 👨‍💻 Developer, graphic designer & discord moderator.
+- ☄️ Currently working with [Design Academy](https://discord.gg/invite/UKrmKYATj2) (Sr. Mod & Branding Admin).
 - 🐦 You can find me on twitter [here](https://twitter.com/TheRealDepthify).
 
 ![](https://komarev.com/ghpvc/?username=Depthify&style=flat)
