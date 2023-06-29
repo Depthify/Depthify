@@ -1,9 +1,9 @@
 ## Greetings, I am Depthify!
 
-I am a hobbyist Python developer who also does graphic designing.
+I am a hobbyist Python developer who mainly does graphic designing.
 - 👨‍💻 Developer, graphic designer & discord moderator.
-- ☄️ Currently working with [Design Academy](https://discord.gg/invite/UKrmKYATj2) (Sr. Mod & Branding Admin).
-- 🐦 You can find me on twitter [here](https://twitter.com/TheRealDepthify).
+- ☄️ Currently working with [Design Campus](https://discord.gg/invite/UKrmKYATj2) (Manage & Branding Admin).
+- 🐦 You can find me on Twitter [here](https://twitter.com/TheRealDepthify).
 
 ![](https://komarev.com/ghpvc/?username=Depthify&style=flat)
 
