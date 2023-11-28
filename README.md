@@ -2,7 +2,7 @@
 
 I am a hobbyist Python developer who mainly does graphic designing.
 - 👨‍💻 Developer, graphic designer & discord moderator.
-- ☄️ Currently working with [Design Campus](https://discord.gg/invite/UKrmKYATj2) (Manager & Branding Admin).
+- ☄️ Former worker at [Design Campus [closed]](https://discord.gg/invite/UKrmKYATj2) (Manager & Branding Admin).
 - 🐦 You can find me on Twitter [here](https://twitter.com/TheRealDepthify).
 
 ![](https://komarev.com/ghpvc/?username=Depthify&style=flat)
